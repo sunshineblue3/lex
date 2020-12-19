@@ -1,0 +1,6 @@
+program TEST
+var string a := "hello";
+for i := 0 to 5 and or1 do (
+s := s_1 + s_2 * (-1.7e8) {world}
+);
+end
